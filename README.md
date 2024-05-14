@@ -1,4 +1,5 @@
-* NEXT.JS NEWS ARTICLE APP
+# NEXT.JS NEWS ARTICLE APP
+## A web application which highlights Next.js routing features. Users may see latest, archived, and filtered news articles. 
 
 <img width="994" alt="Screenshot 2024-05-14 at 11 26 22 AM" src="https://github.com/mcrayman/NextNews/assets/111621747/8b261123-13fd-4300-a894-fd1c2f97308f">
 <img width="1092" alt="Screenshot 2024-05-14 at 11 26 36 AM" src="https://github.com/mcrayman/NextNews/assets/111621747/fa1979cd-5c52-4ea0-846e-f6504cedf56c">
