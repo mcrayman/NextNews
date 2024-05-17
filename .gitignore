@@ -1,4 +1,35 @@
-node_modules/
-.next/
-.swc/
-.*.env
+# Dependencies
+/node_modules
+
+# Next.js build output
+/.next
+/out
+
+# Production files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+/.idea
+.vscode/*
+!.vscode/settings.json
+*.sublime-project
+*.sublime-workspace
+
+# Ignore compiled code
+/dist
+
+# Temporary files
+/tmp
